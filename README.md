@@ -1,4 +1,4 @@
-![pong](https://github.com/maisi1120/photo/assets/156170308/acacbbb4-41f5-409b-a503-d7040fa3199c)
+![pong](https://github.com/maisi1120/photo/assets/156170308/7d5eb447-3e0d-4836-9c3f-547f996b42a3)
 
 
 # Overview
@@ -12,7 +12,7 @@ Use the "arrow up" and "arrow down" keys to control the movement of the right-ha
 
 
 # Usage example
-![Screen Recording 2024-01-11 at 10 39 30 AM](https://github.com/maisi1120/photo/assets/156170308/f277f2bc-77c7-4a5c-a1b1-e2be7ff7be53)
+![Screen Recording 2024-01-11 at 10 39 30 AM 1 16 36 PM](https://github.com/maisi1120/photo/assets/156170308/92d72fb6-2fe7-4ae9-a7e4-18e33c938090)
 
 
 # Dependencies:
